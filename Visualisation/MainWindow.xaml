@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Visualisation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Math modelling" Height="450" Width="800">
     <TabControl>
         <TabItem Header="Lab1">
             <local:Lab1></local:Lab1>
