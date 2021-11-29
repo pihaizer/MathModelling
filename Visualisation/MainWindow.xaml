@@ -7,14 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <TabControl>
-        <TabItem Header="Lab3">
-            <local:Lab3></local:Lab3>
+        <TabItem Header="Lab1">
+            <local:Lab1></local:Lab1>
         </TabItem>
         <TabItem Header="Lab2">
             <local:Lab2></local:Lab2>
         </TabItem>
-        <TabItem Header="Lab1">
-            <local:Lab1></local:Lab1>
+        <TabItem Header="Lab3">
+            <local:Lab3></local:Lab3>
         </TabItem>
     </TabControl>
 </Window>
