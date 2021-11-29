@@ -7,3 +7,5 @@ Produces a bunch of analyzed parameters and charts.
 process time is generated using Erland distribution.
 
 #1
+![lab1demo](https://user-images.githubusercontent.com/56202294/143957470-bc6651b3-3afe-470a-a4ad-fb5278acd1b0.gif)
+
