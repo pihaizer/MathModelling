@@ -1,0 +1,20 @@
+﻿<Window x:Class="Visualisation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Visualisation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <TabControl>
+        <TabItem Header="Lab3">
+            <local:Lab3></local:Lab3>
+        </TabItem>
+        <TabItem Header="Lab2">
+            <local:Lab2></local:Lab2>
+        </TabItem>
+        <TabItem Header="Lab1">
+            <local:Lab1></local:Lab1>
+        </TabItem>
+    </TabControl>
+</Window>

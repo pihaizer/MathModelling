@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathModelling", "MathModelling.csproj", "{373A85DF-182C-4434-862C-CBDC82299ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualisation", "Visualisation\Visualisation.csproj", "{6DB19905-DD7A-46DF-B60A-FB12CB9AB818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{05D8BA1B-1329-4E2D-ADF8-3CF27F0C5379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373A85DF-182C-4434-862C-CBDC82299ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373A85DF-182C-4434-862C-CBDC82299ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373A85DF-182C-4434-862C-CBDC82299ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373A85DF-182C-4434-862C-CBDC82299ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB19905-DD7A-46DF-B60A-FB12CB9AB818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB19905-DD7A-46DF-B60A-FB12CB9AB818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB19905-DD7A-46DF-B60A-FB12CB9AB818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB19905-DD7A-46DF-B60A-FB12CB9AB818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D8BA1B-1329-4E2D-ADF8-3CF27F0C5379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D8BA1B-1329-4E2D-ADF8-3CF27F0C5379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D8BA1B-1329-4E2D-ADF8-3CF27F0C5379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D8BA1B-1329-4E2D-ADF8-3CF27F0C5379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
